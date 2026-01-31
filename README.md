@@ -1,7 +1,7 @@
 # PowerCo – Customer Churn Prediction (SME Segment)
 
 ## Project Overview
-This project analyzes customer churn for PowerCo’s SME customers using exploratory data analysis, feature engineering, and a basic machine learning model to identify high-risk customers and support proactive retention strategies.
+This project analyzes customer churn for PowerCo’s SME customers using exploratory data analysis, feature engineering, and a basic predictive model to identify high-risk customers and support proactive retention strategies.
 
 ## Project Structure
 - **powerco-churn-eda.ipynb** – Exploratory data analysis and key churn insights  
